@@ -1,0 +1,19 @@
+{
+    "users": [
+        {
+            "fullname": "Jade",
+            "login": "Joiner",
+            "admin": true
+        },
+        {
+            "fullname": "Alejandra",
+            "login": "aleochoa",
+            "admin": false
+        },
+        {
+            "fullname": "Alejandro Montilla",
+            "login": "ale123",
+            "admin": true
+        }
+    ]
+}

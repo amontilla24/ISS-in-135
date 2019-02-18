@@ -1,0 +1,19 @@
+<?php
+session_start();
+?>
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Session 1 JavaScript</title>
+  </head>
+  <body>
+
+    <h2>You are on JavaScript Session Page 1!</h2>
+
+    <form action="/sessionpage2.js" name="form" method="post">
+      Username: <input type"text" name="username" id="username"></textarea><br />
+    <a onclick="document.forms['form'].submit();" href="#">Check session on page 2</a>
+    </form>
+
+  </body>
+</html>
