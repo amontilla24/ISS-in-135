@@ -1,5 +1,11 @@
 # Web App Basics
-Alberto Montilla Ochoa (A13573544)
+Alberto Montilla
+
+## Overview
+
+Digital ocean server set up to complete basic web applications in both PHP and NodeJS. 
+
+All code is functional but web server has been disabled so links are currently unavailable.
 
 ## Implementation of PHP Apps:
 All PHP apps live in my nginx server listening on port 82.
